@@ -603,7 +603,8 @@ color: #000000;
   </div>
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/de6b2598-fc8a-4f82-bf2d-d6abaad52653)
+![Screenshot 2024-12-26 202321](https://github.com/user-attachments/assets/562e8ff4-e71d-410d-af11-1815f42c34ae)
+
 
 
 ## RESULT:
